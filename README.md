@@ -1,6 +1,7 @@
 # Manpower Optimization Simulator
 
 A full-stack web app to simulate and optimize manpower allocation on a production line.
+
 Website: https://manpower-optimizer-simulator.onrender.com/
 ## Features
 
